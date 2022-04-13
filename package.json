@@ -1,0 +1,19 @@
+{
+  "name": "jest-another-rpg",
+  "version": "1.0.0",
+  "description": "Command line RPG featuring TDD with Jest",
+  "main": "app.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Qlaub/jest-another-RPG.git"
+  },
+  "author": "Qlaub",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Qlaub/jest-another-RPG/issues"
+  },
+  "homepage": "https://github.com/Qlaub/jest-another-RPG#readme"
+}
