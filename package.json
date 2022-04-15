@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/Qlaub/jest-another-RPG/issues"
   },
-  "homepage": "https://github.com/Qlaub/jest-another-RPG#readme"
+  "homepage": "https://github.com/Qlaub/jest-another-RPG#readme",
+  "devDependencies": {
+    "jest": "^27.5.1"
+  }
 }
